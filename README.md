@@ -1,0 +1,1 @@
+This repository is intended to create for showing my Android source codes.
